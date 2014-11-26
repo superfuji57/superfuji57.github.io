@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hello Coffee
+---
+f
+## WTF
 <!DOCTYPE html>
 <html>
 <body>

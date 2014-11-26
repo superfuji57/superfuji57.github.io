@@ -1,0 +1,32 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 5 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Andy Won
+
+description: Chill ass dude
+author:
+  name:
+  email: unlv.elements@gmail.com
+  github: superfuji57
+  twitter: andy_juan
+  pinterest:
+  linkedin: andy-won
+  bio: Coffee in; sarcasm out
+  email_md5: 
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
