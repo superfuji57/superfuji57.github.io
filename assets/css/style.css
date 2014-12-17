@@ -36,6 +36,10 @@ a.nav-link i{
 }
 a.nav-link:hover { color: #777 }
 
+a.article-link {
+	color: #ff9909 !important;
+}
+
 #bio {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 11px;
