@@ -12,11 +12,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Andy Won
+      title: A site for my digital things
 
 description: Chill ass dude
 author:
-  name:
+  name: Andy Won
   email:
   github: superfuji57
   twitter: andy_juan
