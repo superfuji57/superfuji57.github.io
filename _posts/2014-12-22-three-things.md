@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Things That Happened Last Week: December 22, 2014
+title: Three Things That Happened Last Week
 categories: [three things]
 tags: [lists, weekly wrap-up, movies, comedy]
 description: Introduction to the weekly wrap-up
