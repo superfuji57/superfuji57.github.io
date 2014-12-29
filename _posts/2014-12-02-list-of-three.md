@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The First Three
-categories: [general]
+categories: [three things]
 tags: [lists, what i'm into, weekly wrap-up]
 description: Introduction to the weekly wrap-up
 fullview: true
