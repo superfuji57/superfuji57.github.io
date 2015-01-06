@@ -1,3 +1,8 @@
+to-do
+====
+-change index to blogs
+-create splash with index.html
+
 dbyll
 =====
 
