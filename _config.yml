@@ -25,6 +25,10 @@ author:
   bio: Coffee and windmills
   email_md5: ba35be9a1954673c08f81b92f038bc09
 
+comments: 
+  provider : disqus
+  disqus :
+    short_name : andrewwon
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
