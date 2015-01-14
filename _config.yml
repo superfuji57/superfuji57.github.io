@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: A site for my digital things
+      title: andywon.nyc
 
 description: Chill ass dude
 author:
