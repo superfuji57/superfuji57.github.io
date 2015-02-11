@@ -1,36 +1,62 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Site wide configuration
 
-paginate: 5 # pagination based on number of posts
-paginate_path: "blog/page:num"
-exclude: ["README.md"] # files to exclude
+title:            andywon.nyc
+locale:           en_US
+url:              #www.andywon.nyc
+url:              http://localhost:4000
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
 highlighter: pygments
-markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: andywon.nyc
-
-description: Chill ass dude
-author:
+# Site owner
+owner:
   name: Andy Won
-  email:
-  github: superfuji57
+  avatar: bio-photo.jpg
+  bio: "Cool, calm, just like my mom"
+  email: andy.won@gmail.com
+  disqus-shortname: andrewwon
   twitter: andy_juan
-  pinterest:
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-57622769-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+ 
+  bing-verify: 
+  github: superfuji57
+  stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: andy-won
-  bio: Coffee and windmills
-  email_md5: ba35be9a1954673c08f81b92f038bc09
+  instagram: andy_juan
+  lastfm: #username
+ 
+  tumblr: #username
+  pinterest: #username
+  foursquare: andy_juan
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
 
-comments: 
-  provider : disqus
-  disqus :
-    short_name : andrewwon
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-
-BASE_PATH:
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
