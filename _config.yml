@@ -2,8 +2,8 @@
 
 title:            andywon.nyc
 locale:           en_US
-url:              #www.andywon.nyc
-url:              http://localhost:4000
+url:              www.andywon.nyc
+url:              #http://localhost:4000
 
 
 # Jekyll configuration
