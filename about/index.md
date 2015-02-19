@@ -10,8 +10,4 @@ image:
 
 I'm a New York City-based human with 31 years of experience. 
 
-<br>
-I graduated with a BS in Economics from UNLV, but have continued my education in a zillion different things since. Most recently, I completed the data science specialization offered by the Johns Hopkins Biostatistics department through Coursera. [Here is my course records page.](https://www.coursera.org/account/accomplishments/specialization/44zGfInkEe)
-
-<br>
-I'm still working on setting up this site, including this page.
+Always a student, never a master.
