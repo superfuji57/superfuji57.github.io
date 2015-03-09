@@ -11,7 +11,7 @@
 
 {% include _browser-upgrade.html %}
 
-{% include _navigation.html %}
+{% include _blog-navigation.html %}
 
 {% if page.image.feature %}
   <div class="image-wrap">
@@ -32,6 +32,7 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+  
   <div id="index">
     {% for post in site.posts %}  
       <article>
