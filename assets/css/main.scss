@@ -32,3 +32,13 @@ font-style: italic;
 font-size: 7;
 float:right;
 } 
+
+.blog-nav {
+	display: inline;
+}
+
+.blog-nav a{
+	color: #FA9806;
+	font-size: 150%;
+	text-transform: capitalize;
+}
