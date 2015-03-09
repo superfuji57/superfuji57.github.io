@@ -14,4 +14,4 @@ image:
 
 Andy Won is a data analyst living in Brooklyn who is not at all comfortable with writing in third person.
 
-This is a site I'm building with Github and Jekyll. I will be posting notes I've taken (with code) from lectures and tutorials, my own projects, and anything else that comes along, as well as playing with the site's overall design.
+This is a site I'm building with Github and Jekyll. I will be posting notes I've taken (with code) from lectures and tutorials, my own projects, dance clips after I fix my back, and anything else that comes along.
