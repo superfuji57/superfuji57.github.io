@@ -2,3 +2,5 @@ _site
 .sass-cache
 
 _layouts/post-full.html
+
+drafts/2015-03-11-three-things.md
