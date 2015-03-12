@@ -2,7 +2,7 @@
 layout: post
 title: Three Things That Happened
 categories: [three things]
-tags: [lists, weekly wrap-up]
+tags: [weekly wrap-up]
 description: A rundown of my three favorite things since whenever
 fullview: true
 comments: true
