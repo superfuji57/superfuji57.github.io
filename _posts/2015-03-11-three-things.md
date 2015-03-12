@@ -1,22 +1,21 @@
 ---
 layout: post
-title: Three Things That Happened
+title: Three Things That Happened <s>Last Week</s> Recently
 categories: [three things]
-tags: [weekly wrap-up]
-description: A rundown of my three favorite things since whenever
+tags: [lists, weekly wrap-up]
+description: A rundown of the week that went
 fullview: true
 comments: true
 excerpt: The three most memorable events.
 ---
 
-### [Rembert Brown on Obama and the "chase"](http://grantland.com/features/barack-obama-selma-50th-anniversary/)
+### Fortress of Solitude
+Trying to keep pace with my one book a month (and alternating between fiction and non-fiction) goal, I finished reading [_Fortress of Solitude_](http://www.indiebound.org/book/9780375724886) and am close to done with [_Dataclysm_](http://www.indiebound.org/book/9780385347372). Both great reads!
 
-This is a great piece internet right here. Go read.
+### NBA Player Data
+I've started working on an R Shiny app exploring the NBA.com/stats player shot log API. The API requires unique playerIDs, which I couldn't find anywhere, so I wrote a scraper to build a table. I outlined that [here](http://www.andywon.nyc/nba-player-IDs).
 
-### [Kehinde Wiley: A New Republic](http://www.brooklynmuseum.org/exhibitions/kehinde_wiley_new_republic/)
+### Basketball
+Nets vs. Warriors: A high-scoring affair, with clutch Steph Curry 3s, a game-winning Jarret Jack jumper with 1.1 seconds left, and a Nets win. I love this game!
 
-Currently at the Brooklyn Museum (free on the first Saturday of the month, which is when I went). Great paintings and sculptures. Worth it for the huge Michael Jackson mural alone.
-
-### [Dataclysm by Christian Rudder](http://www.indiebound.org/book/9780385347372)
-
-Great book by the co-founder of the dating site OkCupid on what we say and do online says about us. Easy to read and interpret charts and analyses.
+<iframe src="https://vine.co/v/O0ePbO3AFzi/embed/simple" width="480" height="480" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
