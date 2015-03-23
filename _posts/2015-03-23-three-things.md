@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Three Things That Happened
-categories: [three things]
-tags: [weekly wrap-up]
-description: A rundown of my three favorite things since whenever
-fullview: true
-comments: true
-excerpt: The three most memorable events.
+title: "Three Things That Happened"
+modified:
+categories: [Three Things]
+excerpt: The three things I'll remember about this time.
+tags: []
+image:
+  feature:
+date: 2015-03-23T01:22:29-04:00
 ---
+
 
 ### [Yield in 3D by the New York Times](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html?rref=upshot)
 

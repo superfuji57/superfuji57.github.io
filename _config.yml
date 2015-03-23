@@ -8,7 +8,7 @@ url:              #http://localhost:4000
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:categories/:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
