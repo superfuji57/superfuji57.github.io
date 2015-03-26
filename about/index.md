@@ -9,40 +9,32 @@ image:
 
 #### _Always a student, never a master_.
 
-I'm a funky Earth-based human with 31 years of experience -- 5+ in New York City, 24 in Las Vegas, and ~2 in Texas and Michigan. 
+I have 31 years of human experience -- 5+ in New York City, 24 in Las Vegas, and ~2 in Texas and Michigan. 
 
-### Data Science
+Currently working as a data analyst with [Scholastic](http://www.scholastic.com) on the BI and Analytics team.
 
-I knew I wanted to make an impact on the world through data when I first learned about linear regression taking undergraduate economics. The intersection of statistics and social science made perfect sense for a person like me: _kinda_ good at math and naturally curious about how and why we behave the way we do.
+I love basketball, b-boying, and behavioral science. My goal is to laugh and dance as much as this life can take. 
 
-Books about behavioral economics like Freakonomics, Nudge, the Gladwell stuff, and eventually my favorite, Thinking Fast and Slow, confirmed that this what I'd do with my life. I saw this [Wired article](http://www.wired.com/2012/04/ff_abtesting/) and saw the tech world as a vibrant place for research.
+My initial intent for this site was to post my notes, tutorials, and experiences on working with data as way to contribute to the open source data science/programming community. In the process, I figured I'd use the opportunity to sharpen up my writing (bare with me) and keep track of all life-journey-related things. So, basically Xanga 2.0 (Edit: WAIT XANGA 2.0 IS AN ACTUAL THING!?!). 
 
-Then there was *that other article that will never be linked here* touting a data scientist would be the "sexiest job" for the next 100 years. That piece, and all its children, made one thing clear: data science is poorly defined. At different, rotating points I believed everything from "I can obviously do this" to "there's no way I can do this without at least a Ph.D." 
+I used Jekyll and Github Pages (and [this tutorial](http://24ways.org/2013/get-started-with-github-pages/) with the [Minimal Mistake theme](https://github.com/mmistakes/minimal-mistakes). 
 
-Until [Coursera](https://www.coursera.org/account/accomplishments). My first courses were Andrew Ng's on [Machine Learning](https://www.coursera.org/course/ml) and Bill Howe's [Intro to Data Science](https://www.coursera.org/course/datasci). Taking these two classes gave me the high level overview of important data science concepts and some basic coding skills. More importantly, they made data science feel accessible. There are countless classes offered on Coursera and other MOOC platforms for everything from public speaking to Kierkegaard. I can't recommend them enough.
+#### My deepest gratitude go to the following (in no particular order)
 
-I also can't overstate how powerfully they've impacted me. FREE learning opportunities from world-leading academics. Sadly, the majority of the students taking these courses are employed and already have college degrees ([article](http://chronicle.com/article/In-Deals-With-10-Public/139533/?cid=at&utm_source=at&utm_medium=en)). Disrupting the university has its merits, but I want to see these resources utilized on those who've historically had the widest gap to access. It's an engagement issue I'm betting data science can help solve.
+* [__Coursera__](http://www.coursera.org) and [Andrew Ng](https://twitter.com/andrewyng). Prior to May 2013, my data science skillset consisted of basic statistics knowledge and a hobby for behavioral economics (read: I had none). This journey started with free classes on Coursera.
 
-Continuously inspired by:
+* [__Hadley Wickham__](http://had.co.nz/) known for the Hadley-verse, an immensely helpful collection of data tools in the form of packages for the R language. Also, reinforces the mantra of *embracing frustration*. 
 
-* [Coursera](http://www.coursera.org) and [Andrew Ng](https://twitter.com/andrewyng)
+* __Daniel Kahneman__. Read [Thinking, Fast and Slow](http://www.indiebound.org/book/9780606275644)
 
-* [Hadley Wickham](http://had.co.nz/) known for the Hadley-verse, an immensely helpful collection of data science packages for the R language
+* [The Johns Hopkins Biostats team](http://simplystatistics.org/) who teach the __Data Science Specialization on Coursera__
 
-* Daniel Kahneman. Read [Thinking, Fast and Slow](http://www.indiebound.org/book/9780606275644)
+* The entire open source data science community, whose work I keep up with everyday on [DataTau](http://www.datatau.com/) and with my [Twitter list](https://twitter.com/andy_juan/lists/tech-data).
 
-* [The Johns Hopkins Biostats team](http://simplystatistics.org/) who teach the Data Science Specialization on Coursera
+* [Knucklehead Zoo](http://www.knuckleheadzoo.com/), my dance crew with whom I go back 16 years.
 
-* The entire open source data science community, whose work I keep up with everyday on [DataTau](http://www.datatau.com/)
+* [Cloud](https://www.youtube.com/user/floorstatik/videos?flow=grid&view=0&sort=p) - a b-boy by origin, but overall talented visual artist. He proved to me that you can apply your creative energy into other mediums successfully.
 
-### B-Boying
+* [Free](https://www.youtube.com/watch?v=tCo6ZgK0Ogg) - a living funk style god
 
-The dance that I've been performing or spectating for 17 years. My framework for learning (including data science) and lense for the creative process. More to come...
-
-Continuously inspired by:
-
-* [Knucklehead Zoo](http://www.knuckleheadzoo.com/)
-
-* [Cloud](https://www.youtube.com/user/floorstatik/videos?flow=grid&view=0&sort=p)
-
-* [BBoy Free](https://www.youtube.com/watch?v=tCo6ZgK0Ogg)
+* More to come

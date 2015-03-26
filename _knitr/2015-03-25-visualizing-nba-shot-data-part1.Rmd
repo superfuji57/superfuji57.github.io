@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Visualizing the NBA's Shot Logs with R Part 1"
+categories: [projects]
+excerpt: Using R to scrape, clean, and visualize data from NBA.com's shot log API
+tags: [NBA, data visualization, data science]
+data: 2015-03-25
+---
+
+The NBA.com/stats site is arguably the best sports statistics interface across all sports and sports leagues. Thanks to a couple of great posts by Greg Reda and Daniel Forsyth ([here]() and [here]()), I set out to build a wrapper in R. It's immediately clear that a set of unique player is needed and not easily accessible -- at least to me. In fact, there's probably an infinitely better way to get this data than the way I did, but alas...
+
+My method: Brute force querying through all likely possible IDs. You can find my code and the complete table of over 5000 players in [this Github repo]().
+
+
+
+```{r, message=FALSE, echo=FALSE}
+library(knitr)
+source("~/Projects/NBA-shots/shinyApp/shotLog.R")
+
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+dat <- getShotLog("Stephen Curry", season = "2014-15")
+heat.dat <- heat_data(dat)
+result_map(heat.dat)
+```
+
