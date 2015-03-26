@@ -5,13 +5,14 @@ tags: [projects, data science, code]
 modified: 2014-08-08T20:53:07.573882-04:00
 ---
 
-In progress....
 
 ### NBA Shots Stats
-
-Thanks to a couple great posts by [Greg Reda](gregreda.com/2015/02/15/web-scraping-finding-the-api/) and [Daniel Forsyth](nielforsyth.me/exploring_nba_data_in_python/), I got the idea to build an app to learn more about interactive visualization tools.
+ 
+Seeing what I can do using the NBA.com/stats player shot logs API.
 
 * [A table of NBA player IDs](https://github.com/superfuji57/nba-playerIDs) and info to use with the NBA.com/stats API that I scraped.
+
+* [Data Viz!]() with a guest appearance by the Splash Brothers.
 
 * [The code for the app so far.](https://github.com/superfuji57/NBA-shots) - fork on Github and let's collaborate!
 
@@ -25,4 +26,8 @@ Thanks to a couple great posts by [Greg Reda](gregreda.com/2015/02/15/web-scrapi
 
 [Here is my course records page.](https://www.coursera.org/account/accomplishments/specialization/44zGfInkEe) This was a lot of fun and my first foray into natural language processing. I plan to build out details around the app to be something a bit more presentable.
 
-### Adobe Analytics Dashboard
+### Web Development
+
+Building a site with Jekyll and Github pages.
+
+* This site!
