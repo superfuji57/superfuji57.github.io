@@ -7,7 +7,7 @@ tags: [NBA, data visualization, data science]
 data: 2015-03-25
 ---
 
-The NBA.com/stats site is arguably the best sports statistics interface across all sports and sports leagues. Thanks to a couple of great posts by Greg Reda and Daniel Forsyth ([here]() and [here]()), I set out to build a wrapper in R. It's immediately clear that a set of unique player is needed and not easily accessible -- at least to me. In fact, there's probably an infinitely better way to get this data than the way I did, but alas...
+The NBA.com/stats site is arguably the best sports statistics interface across all sports and sports leagues. Thanks to a couple of great posts by Greg Reda and Daniel Forsyth ([here](gregreda.com/2015/02/15/web-scraping-finding-the-api/) and [here](danielforsyth.me/exploring_nba_data_in_python/)), I set out to build a wrapper in R. It's immediately clear that a set of unique player is needed and not easily accessible -- at least to me. In fact, there's probably an infinitely better way to get this data than the way I did, but alas...
 
 My method: Brute force querying through all likely possible IDs. You can find my code and the complete table of over 5000 players in [this Github repo]().
 
