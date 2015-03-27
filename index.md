@@ -10,5 +10,5 @@ image:
 
 # Hi, I'm Andy Won.
 
-### Data science, dancing, and everything else
+### Cracking the code on data science, dance moves, and everything else
 
