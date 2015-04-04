@@ -20,4 +20,9 @@ Meetups were essential in my journey to becoming a data person, and this particu
 
 The Godfather of house Frankie Knuckles passed away last year on March 31st. I won't pretend to know much about the history or house genre itself, but I know funky. This set has soul and is MAD FONKY, and is permanently placed in the forever ever jam list.
 
-### Left my list in el segundo
+### Caffeine and L-Theanine
+
+My first foray into [nootropics](http://en.wikipedia.org/wiki/Nootropic). Seeing how I already take advantage of every reasonable opportunity to have a coffee, I figured give it a shot. I've already taken L-theanine as part of a BCAA supplement, so I'm pretty sure I won't die. 
+
+In short, the combination is supposed to give you a more chill mood, which sounds great to an introvert (see: [When Introverts Should Avoid Coffee](http://nymag.com/scienceofus/2014/10/when-introverts-should-avoid-coffee.html)). There's [_some evidence_](http://www.researchgate.net/publication/5841233_The_effects_of_L-theanine_caffeine_and_their_combination_on_cognition_and_mood) -- and so far so good, in my experience -- but I won't pretend like I'm living proof.
+
