@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Scraping NBA Player Bios with R and the RVest Package"
+categories: [projects]
+excerpt: Using R to scrape, clean, and visualize data from NBA.com's shot log API
+tags: [NBA, data visualization, data science]
+data: 2015-03-25
+---
+
+The NBA.com/stats site is arguably the best sports statistics interface across all sports and sports leagues. Thanks to a couple of great posts by [Greg Reda](gregreda.com/2015/02/15/web-scraping-finding-the-api/) and [Daniel Forsyth](danielforsyth.me/exploring_nba_data_in_python/), I decided to see how I can use R to explore the NBA's player shot logs, which provides details for every field goal attempt taken over the current and last season.
+
+As Greg and Daniel show in their posts, a numeric player ID is needed to query the NBA's API. It became clear early on that a list or table of IDs for all active players wasn't available. To build this, we'll have to scrape the NBA's stats site.
+
+The site's [Player Index page](http://stats.nba.com/players/) should have what we need. Does it? Well, kind of. Since the page uses a client-side framework (which Greg explains wonderfully in his post), we don't see a lot of what we get in the browser when pulling data from `R`. At the time of writing this post, I am not aware of a method to mimic the actions that trigger the site to be fully rendered in the browser by -- in this case -- angular.js. If anyone knows of such wizardry, please do tell!
+
+Instead, I went with the hard but mostly long way: brute force search. This means looping over every possible ID and building the table one player at a time.
+
+After loading the necessary packages...
+
+```{r, message=FALSE}
+library(rvest)
+library(rjson) # to parse the results from the API
+library(beepr) # cool package that triggers an alert when the script is finished
+#library(httr)
+library(dplyr) # easy data manipulation
+library(data.table)
+options(stringsAsFactors = FALSE)
+```
+
+Using the example player from Greg's post and the method he used to find shots API, we can the player bio API endpoint for John Wall. It looks like this:
+> http://stats.nba.com/stats/commonplayerinfo?LeagueID=00&PlayerID=**202322**&SeasonType=Regular+Season
+
+With the `html` function from `rvest`, we some information about John Wall mucked up in some JSON.
+
+```{r}
+player_info <- html(paste0(
+        "http://stats.nba.com/stats/commonplayerinfo?LeagueID=00&PlayerID=",
+        202322, #John Wall's Player ID
+        "&SeasonType=Regular+Season"))
+
+player_info
+```
+
+The `rjson` package comes in handy here to turn that into something useful. Nested inside is `html_text` from `rvest`, which will clean out the html tags. And, here we just want an outline, so we take the headers vector from John Wall's bio and store them in an object, `cols`.
+
+
+```{r}
+player_json <- fromJSON(html_text(player_info))
+cols <- player_json$resultSets[[1]]$headers # taking the column names from the initial API test call
+cols
+```
+
+Now we can see that the API returns 25 fields
+
