@@ -11,9 +11,8 @@ image:
 
 I am a native Las Vegan currently living and working in New York City as a data analyst with [Scholastic](http://www.scholastic.com) on the BI and Analytics team.
 
-I love basketball, b-boying, and behavioral science. My goal is to laugh and dance as much as this life can take. 
 
-My initial intent for this site was to post my notes, tutorials, and experiences on working with data as a way to contribute to the open source data science community that has given me so much. In the process, I figured I'd sharpen up my writing (bare with me) and keep track of all life-journey-related things. So, basically Xanga 2.0 (Edit: WAIT XANGA 2.0 IS AN ACTUAL THING!?!). 
+My initial intent for this site was to post my notes, tutorials, and experiences on working with data as a way to contribute to the open source data science community that has given me so much.
 
 I used Jekyll and Github Pages (and [this tutorial](http://24ways.org/2013/get-started-with-github-pages/) with the [Minimal Mistake theme](https://github.com/mmistakes/minimal-mistakes). 
 
