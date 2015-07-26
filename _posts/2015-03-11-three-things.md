@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Things That Happened Before 3/11/2015
-categories: [three things]
+categories: [threethings]
 tags: [weekly wrap-up]
 description: A rundown of my three favorite things since whenever
 fullview: true

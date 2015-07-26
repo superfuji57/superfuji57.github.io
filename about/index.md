@@ -7,7 +7,7 @@ image:
   feature: savandy.jpg
 ---
 
-#### _Always a student, never a master_.
+#### _Cool, calm, just like my mom_.
 
 I am a native Las Vegan currently living and working in New York City as a data analyst with [Scholastic](http://www.scholastic.com) on the BI and Analytics team.
 

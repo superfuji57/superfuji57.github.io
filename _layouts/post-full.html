@@ -33,20 +33,24 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    {% for post in site.posts %}  
-      <article>
-        {% if post.link %}
-          <h1 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h1>
-        {% else %}
-          <h1><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
-      <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
-          <p>
-            {{ post.content }}
-            <br>
-            <br>
-          </p>
-        {% endif %}
-      </article>
+    {% for post in site.posts %}
+      {% if post.categories contains "threethings" %}
+      <!-- do nothing -->
+      {% else %}  
+        <article>
+          {% if post.link %}
+            <h1 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h1>
+          {% else %}
+            <h1><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
+        <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
+            <p>
+              {{ post.content }}
+              <br>
+              <br>
+            </p>
+          {% endif %}
+        </article>
+      {% endif %}
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->

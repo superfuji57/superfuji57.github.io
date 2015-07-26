@@ -3,7 +3,7 @@ layout: post
 title: "Scraping NBA Player Bios with R and the RVest Package"
 categories: [projects]
 excerpt: Using R to scrape, clean, and visualize data from NBA.com's shot log API
-tags: [NBA, data visualization, data science]
+tags: [a, NBA, data visualization, data science]
 data: 2015-03-25
 ---
 

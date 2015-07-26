@@ -1,13 +1,11 @@
 ---
 layout: home
-excerpt: "The Website of Andy Won"
+excerpt: "Andy Won - Data Science, Dance Moves, etc."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: paddlesunset.gif
-  credit: Jens Mayer
-  creditlink: https://unsplash.com/jens_mayer
+  feature: PV2.jpg
+  credit: 
+  creditlink: 
 ---
 
 # Hi, I'm Andy Won.
-
-### Data science, dance moves, and everything else

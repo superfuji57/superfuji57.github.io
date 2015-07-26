@@ -2,7 +2,7 @@
 layout: post
 title: "Three Things That Happened Before 3/23/15"
 modified:
-categories: [Three Things]
+categories: [ThreeThings]
 excerpt: The three things I'll remember about this time.
 tags: []
 image:

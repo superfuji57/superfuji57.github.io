@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Added to My Starred List
-categories: [no skip playlist]
-tags: [music, favorite tracks, spotify]
+categories: [music]
+tags: [a, music, favorite tracks, spotify]
 description: Songs that will jam, forever
 fullview: true
 comments: true
