@@ -9,30 +9,5 @@ image:
 
 #### _Cool, calm, just like my mom_.
 
-I am a native Las Vegan currently living and working in New York City as a data analyst with [Scholastic](http://www.scholastic.com) on the BI and Analytics team.
+I am a native Las Vegan currently living and working in New York City as a statistical analyst with [Birchbox](http://www.birchbox.com) on the data science team.
 
-
-My initial intent for this site was to post my notes, tutorials, and experiences on working with data as a way to contribute to the open source data science community that has given me so much.
-
-I used Jekyll and Github Pages (and [this tutorial](http://24ways.org/2013/get-started-with-github-pages/) with the [Minimal Mistake theme](https://github.com/mmistakes/minimal-mistakes). 
-
-#### Sources of learning and inspiration
-I owe a ton to the following:
-
-* [__Coursera__](http://www.coursera.org) and [Andrew Ng](https://twitter.com/andrewyng). Prior to May 2013, my data science skillset consisted of basic statistics knowledge and a hobby for behavioral economics (read: I had none). This journey started with free classes on Coursera.
-
-* [__Hadley Wickham__](http://had.co.nz/) known for the Hadley-verse, an immensely helpful collection of data tools in the form of packages for the R language. Also, reinforces the mantra of *embracing frustration*. 
-
-* __Daniel Kahneman__, the godfather of behavioral economics. Read [Thinking, Fast and Slow](http://www.indiebound.org/book/9780606275644)
-
-* [The Johns Hopkins Biostats team](http://simplystatistics.org/) who teach the __Data Science Specialization on Coursera__
-
-* The entire open source data science community, whose work I keep up with everyday on [DataTau](http://www.datatau.com/) and with my [Twitter list](https://twitter.com/andy_juan/lists/tech-data).
-
-* [Knucklehead Zoo](http://www.knuckleheadzoo.com/), my dance crew with whom I go back 16 years.
-
-* [Cloud](https://www.youtube.com/user/floorstatik/videos?flow=grid&view=0&sort=p) - dope member of the b-boy community, but overall multi-talented artist. He proved to me that you can apply your creative energy into other mediums successfully.
-
-* [Free](https://www.youtube.com/watch?v=tCo6ZgK0Ogg) - living funk style god
-
-* More to come
