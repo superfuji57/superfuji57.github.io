@@ -9,5 +9,5 @@ image:
 
 #### _Cool, calm, just like my mom_.
 
-I am a native Las Vegan currently living and working in New York City as a statistical analyst with [Birchbox](http://www.birchbox.com) on the data science team.
+I am a native of Las Vegas currently based in New York City. Former data scientist at [Birchbox](http://www.birchbox.com), currently at [Freshly](www.freshly.com).
 
